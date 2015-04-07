@@ -1,0 +1,7 @@
+G4L report version 0.0 simpleMidiGame 2010/10/14 12:52:49
+457 SCORE { sum 2 }
+553 SCORE { sum 3 }
+577 SCORE { sum 4 }
+804 SCORE { sum 6 }
+876 SCORE { sum 7 }
+952 SCORE { round 1 sum 0 targetSum 16 score 1 }
